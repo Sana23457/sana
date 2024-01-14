@@ -1,0 +1,149 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Timeless Elixir Rejuvenating Serum</title>
+    <style>
+        body {
+            font-family: 'Arial', sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f9f7f9; /* Light Pink Background */
+            line-height: 1.6;
+            color: #555;
+        }
+
+        header {
+            background-color: #ed5a8d; /* Darker Pink Header */
+            color: #fff;
+            padding: 1em;
+            text-align: center;
+        }
+
+        section {
+            max-width: 800px;
+            margin: 20px auto;
+            padding: 20px;
+            background-color: #fff;
+            box-shadow: 0 0 20px rgba(0, 0, 0, 0.1);
+            border-radius: 12px; /* Rounded Corners */
+            position: relative;
+            overflow: hidden;
+            display: block;
+        }
+
+        h1, h2, h3 {
+            color: #ed5a8d; /* Darker Pink Heading */
+        }
+
+        h2 {
+            margin-top: 0;
+        }
+
+        p {
+            margin-bottom: 20px;
+        }
+
+        ul {
+            list-style-type: none;
+            padding: 0;
+            margin-bottom: 20px;
+        }
+
+        ul li:before {
+            content: '\2022'; /* Bullet Point */
+            color: #ed5a8d;
+            font-weight: bold;
+            display: inline-block;
+            width: 1em;
+            margin-left: -1em;
+        }
+
+        img {
+            max-width: 100%;
+            height: auto;
+            border-radius: 12px; /* Rounded Corners for Images */
+            margin-bottom: 20px;
+            display: block;
+            margin: auto;
+        }
+
+        form {
+            margin-top: 20px;
+        }
+
+        label {
+            display: block;
+            margin-bottom: 8px;
+            color: #333;
+            font-weight: bold;
+        }
+
+        input,
+        textarea {
+            width: 100%;
+            padding: 12px;
+            margin-bottom: 20px;
+            border: 1px solid #ccc;
+            border-radius: 8px;
+        }
+
+        button {
+            background-color: #ed5a8d; /* Darker Pink Button */
+            color: #fff;
+            padding: 12px 20px;
+            border: none;
+            border-radius: 8px;
+            cursor: pointer;
+            font-size: 16px;
+        }
+    </style>
+</head>
+
+<body>
+    <header>
+        <h1>Timeless Elixir Rejuvenating Serum</h1>
+    </header>
+
+    <section>
+        <h2>About Timeless Elixir Serum</h2>
+        <p>
+            Indulge in the luxurious experience of Timeless Elixir Rejuvenating Serum. Our exclusive formula is designed
+            to revitalize and rejuvenate your skin, leaving you with a radiant and youthful complexion.
+        </p>
+
+        <h2>Key Features</h2>
+        <ul>
+            <li>Advanced Age-Defying Formula</li>
+            <li>24-karat Gold Infusion for Radiance</li>
+            <li>Diamond Dust Exfoliation for Smooth Texture</li>
+            <li>Caviar Hydration Complex for Nourishment</li>
+        </ul>
+
+        <img src="Peach Illustrated Skincare Routine Instagram Story.jpg">
+
+        <h2>How to Use</h2>
+        <p>
+            Apply a small amount of Timeless Elixir Rejuvenating Serum to clean, dry skin. Gently massage into the face
+            and neck using upward motions. For best results, use morning and night as part of your skincare routine.
+        </p>
+
+        <h2>Contact Us</h2>
+        <form>
+            <label for="name">Your Name:</label>
+            <input type="text" id="name" name="name" required>
+
+            <label for="email">Your Email:</label>
+            <input type="email" id="email" name="email" required>
+
+            <label for="message">Your Message:</label>
+            <textarea id="message" name="message" rows="4" required></textarea>
+
+            <button type="submit">Send Message</button>
+        </form>
+    </section>
+</body>
+
+</html>
